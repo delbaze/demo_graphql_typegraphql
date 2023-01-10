@@ -1,4 +1,0 @@
-type Language {
-  id: Int
-  label: String
-}
