@@ -6,6 +6,7 @@ type Wilder {
   notes: [Note]
 }
 
+
 type Query {
   listWilders: [Wilder]
 }
